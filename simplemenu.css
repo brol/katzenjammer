@@ -1,0 +1,67 @@
+/*
+# -- BEGIN LICENSE BLOCK ----------------------------------
+# This file is part of Katzenjammer, a theme for Dotclear.
+#
+# Copyright (c) 2010 - 2015 annso (contact@as-i-am.fr) and contributors
+#
+# Licensed under the GPL version 2.0 license.
+# A copy of this license is available in LICENSE file or at
+# http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
+# -- END LICENSE BLOCK ------------------------------------
+*/
+
+#navigation {
+}
+
+/* SimpleMenu */
+#navsm {
+	width : 100%;
+  margin: 0 0 60px;
+  padding: 0;
+  clear:both;
+}
+
+#supranav {
+	margin-bottom: 60px;
+	text-align: center;
+	font-family:Verdana,sans-serif;
+	font-size:0.85em;
+	font-weight:bold;
+	letter-spacing:2px;
+  margin: 0 auto;
+}
+#supranav li {
+  display: inline;
+  height: 26px;
+  text-transform: uppercase;
+	letter-spacing: 3px;
+  font-size: 90%;
+  text-decoration: none;
+	float: left;
+	margin:0 10px;
+}
+* html #navsm li { /* Filter for IE6 to prevent li stacking */
+  float: left;
+  text-decoration: none;
+}
+* html #navsm li a { /* Filter for IE6 to prevent li stacking */
+  float: left;
+  text-decoration: none;
+}
+#supranav li a {
+  display: block;
+	text-decoration: none;
+	padding: 3px 4px;
+}
+#supranav li.active {
+}
+#supranav li.active a {
+	color: #666;
+}
+#supranav li:hover {
+  text-decoration: none;
+}
+#supranav li a:hover {
+	background: #8F8F8F;
+	color: #fff;
+}
