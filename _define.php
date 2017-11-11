@@ -14,9 +14,10 @@ $this->registerModule(
 	/* Name */			"Katzenjammer",
 	/* Description*/	"Thème en une colonne, noir et blanc",
 	/* Author */		"annso, Pierre Van Glabeke",
-	/* Version */		'2.1',
+	/* Version */		'2.3',
 	array(
 		'type'	 =>	'theme',
-		'tplset' => 'mustek'
+		'tplset' => 'mustek',
+		'dc_min' => '2.9'
 	)
 );

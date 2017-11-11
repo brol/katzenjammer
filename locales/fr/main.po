@@ -15,12 +15,15 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
-#: tpl/__layout.html:117
-#: tpl/category.html:101
-msgid "at"
-msgstr "à"
+#: _config.php:30
+msgid "none"
+msgstr "aucun"
 
-#: tpl/_footer.html:2
-msgid "dressed by"
-msgstr "habillé par"
+#: _config.php:71
+msgid "Customizations"
+msgstr "Personnalisation"
+
+#: _config.php:72
+msgid "Menu to display:"
+msgstr "Menu à afficher :"
 

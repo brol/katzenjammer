@@ -16,7 +16,7 @@ global $core;
 //PARAMS
 
 # Translations
-l10n::set(dirname(__FILE__).'/locales/'.$_lang.'/public');
+l10n::set(dirname(__FILE__).'/locales/'.$_lang.'/main');
 
 # Default values
 $default_menu = 'simplemenu';

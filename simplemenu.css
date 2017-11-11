@@ -51,7 +51,7 @@
 #supranav li a {
   display: block;
 	text-decoration: none;
-	padding: 3px 4px;
+	padding: 3px 4px 3px 6px;
 }
 #supranav li.active {
 }
