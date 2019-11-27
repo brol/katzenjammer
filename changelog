@@ -1,11 +1,15 @@
-v2.3 - 11-11-2017 - Pierre Van Glabeke
+v2.4 - 27/11/2019 - Pierre Van Glabeke
+* modifs html
+* dc2.15 requis
+
+v2.3 - 11/11/2017 - Pierre Van Glabeke
 * modif html
 * localisation
 
-v2.2 - 28-06-2017 - Pierre Van Glabeke
+v2.2 - 28/06/2017 - Pierre Van Glabeke
 * modif css
 
-v2.1 - 08-09-2015 - Pierre Van Glabeke
+v2.1 - 08/09/2015 - Pierre Van Glabeke
 * html5 / mustek
 * ajout configurateur pour menu (simplemenu/aucun)
 * nettoyage css
